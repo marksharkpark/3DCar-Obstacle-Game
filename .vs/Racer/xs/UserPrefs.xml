@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{C6472871-CE41-F24E-BFD5-4A9AE5B8D9AA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level2/Reload2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Tutorial/CoinTutorialTrigger.cs" Line="21" Column="29" />
+      <File FileName="Assets/Scripts/Level2/Coin2.cs" Line="8" Column="47" />
+      <File FileName="Assets/Scripts/Level3/Coin3.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Level2/CoinTrigger2.cs" Line="13" Column="29" />
+      <File FileName="Assets/Scripts/Level3/CoinTrigger3.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/Level3/LapTimer3.cs" Line="23" Column="5" />
+      <File FileName="Assets/Scripts/ButtonTrigger4.cs" Line="6" Column="59" />
+      <File FileName="Assets/Scripts/AttachCar.cs" Line="5" Column="84" />
+      <File FileName="Assets/Scripts/Level 1/ButtonTrigger2.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/Level 1/CoinTrigger1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Universal/TriggerSFX.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/Level2/ButtonTrigger3.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/Universal/SoundManager.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/SplashScreen/SplashSequence.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/Level2/LapTimer2.cs" Line="21" Column="5" />
+      <File FileName="Assets/Scripts/Level 1/LapTimer1.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/Tutorial/LapTimer_T.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level3/Reload3.cs" Line="10" Column="4" />
+      <File FileName="Assets/Scripts/Universal/GameStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level2/Reload2.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Racer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Racer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="044e3208-0d61-4d08-9220-5d9fa518b6cc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
